@@ -1,4 +1,4 @@
-- basic **payment application** using **C** language<br /> 
+# Basic **Payment Application** using **C** language<br /> 
 - built in **visual studio 2022**<br />
 
 - **Application Flowchart**<br />
