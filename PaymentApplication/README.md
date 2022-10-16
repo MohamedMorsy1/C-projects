@@ -1,8 +1,9 @@
 # Basic **Payment Application** using **C** language<br /> 
-- built in **visual studio 2022**<br />
+
+- built in **visual studio 2022** <br />
 
 - **Application Flowchart**<br />
-    here you can see the system components:<br />
+    here you can see the system components: <br />
       - **Card module**<br />
       - **Terminal module**<br />
       - **Server module**<br />
