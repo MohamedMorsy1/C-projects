@@ -1,2 +1,3 @@
-basic payment application using C language 
-visual studio
+# Digital I/O driver in atmega32
+
+this code implements the initialization and control of pins. 
